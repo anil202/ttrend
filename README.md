@@ -1,4 +1,4 @@
-# Ttrend application
+# Ttrend application by anil
 
 This is a small applicaiton which contains main and test folders.  
 Main contains application code.  
